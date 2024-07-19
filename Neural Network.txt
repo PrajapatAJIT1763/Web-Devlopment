@@ -1,0 +1,6 @@
+# Neural network :
+_Neurons and proceptrons
+_Activation function
+_Cost function
+_Gradient descent
+_Back propogation
